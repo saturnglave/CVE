@@ -1,2 +1,2 @@
 # CVE
-Beautiful soupdeで遊んでみただけ
+Beautiful soupで遊んでみただけ
